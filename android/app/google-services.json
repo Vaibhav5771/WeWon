@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439082037514",
+    "project_id": "wewon-47194",
+    "storage_bucket": "wewon-47194.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439082037514:android:e6a295e58004a6d11a0af3",
+        "android_client_info": {
+          "package_name": "com.example.wewon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUpfxinD31nCVhfBe50inSBqZVQKQ8agM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
