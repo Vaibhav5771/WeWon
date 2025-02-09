@@ -2,6 +2,8 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:wewon/audio/categories_page.dart';
 import 'package:wewon/pages/voice_start.dart';
+import 'package:wewon/record/record_ui.dart';
+
 
 import 'login_page.dart';
 
@@ -67,7 +69,7 @@ class HealerDealerPage extends StatelessWidget {
                       onTap: () {
                         Navigator.pushReplacement(
                           context,
-                          MaterialPageRoute(builder: (context) => VoiceScreen(),
+                          MaterialPageRoute(builder: (context) => AudioRecorderPage(),
                           ), // Navigate to login page
                         );
                       },

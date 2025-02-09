@@ -180,7 +180,6 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                   ),
                 ),
-                const SizedBox(height: 10),
                 Image.asset(
                   "assets/Login_page.png",
                   width: 330,

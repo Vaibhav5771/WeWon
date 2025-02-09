@@ -4,7 +4,6 @@ import 'package:wewon/auth/login_or_register.dart';
 import 'package:wewon/pages/healer_dealer_page.dart';
 import 'package:wewon/pages/launcher_page.dart';
 
-import '../pages/home_page.dart';
 
 class AuthPage extends StatelessWidget {
   const AuthPage({super.key});
